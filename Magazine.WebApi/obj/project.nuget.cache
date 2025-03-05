@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+0WSDU6lJXs=",
+  "success": true,
+  "projectFilePath": "D:\\Laboratorny\\3_course\\2_semester\\Sorokin\\ShopApp\\Magazine.WebApi\\Magazine.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dunyu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\dunyu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
